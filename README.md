@@ -24,19 +24,19 @@ pytorchGUI项目，旨在让不会编程的人也能搭建卷积神经网络，�
 
 #### 创建经典模型
 
-[pytorchGUI/3.png at main · biganabc/pytorchGUI (github.com)](https://github.com/biganabc/pytorchGUI/blob/main/pictures/3.png)
+![pytorchGUI/3.png at main · biganabc/pytorchGUI (github.com)](https://github.com/biganabc/pytorchGUI/blob/main/pictures/3.png)
 
 ### 训练
 
-[pytorchGUI/4.png at main · biganabc/pytorchGUI (github.com)](https://github.com/biganabc/pytorchGUI/blob/main/pictures/4.png)
+![pytorchGUI/4.png at main · biganabc/pytorchGUI (github.com)](https://github.com/biganabc/pytorchGUI/blob/main/pictures/4.png)
 
 ### 查看模型结构
 
-[pytorchGUI/5.png at main · biganabc/pytorchGUI (github.com)](https://github.com/biganabc/pytorchGUI/blob/main/pictures/5.png)
+![pytorchGUI/5.png at main · biganabc/pytorchGUI (github.com)](https://github.com/biganabc/pytorchGUI/blob/main/pictures/5.png)
 
 ### 调用模型
 
-[pytorchGUI/6.png at main · biganabc/pytorchGUI (github.com)](https://github.com/biganabc/pytorchGUI/blob/main/pictures/6.png)
+![pytorchGUI/6.png at main · biganabc/pytorchGUI (github.com)](https://github.com/biganabc/pytorchGUI/blob/main/pictures/6.png)
 
 ## 环境（需要的Python库）
 
