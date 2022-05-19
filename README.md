@@ -20,23 +20,23 @@ pytorchGUI项目，旨在让不会编程的人也能搭建卷积神经网络，�
 
 #### 手工搭建模型
 
-![image-20220519151530158](pictures\2.png)
+![pytorchGUI/2.png at main · biganabc/pytorchGUI (github.com)](https://github.com/biganabc/pytorchGUI/blob/main/pictures/2.png)
 
 #### 创建经典模型
 
-![image-20220519151629463](C:\Users\HP\AppData\Roaming\Typora\typora-user-images\image-20220519151629463.png)
+[pytorchGUI/3.png at main · biganabc/pytorchGUI (github.com)](https://github.com/biganabc/pytorchGUI/blob/main/pictures/3.png)
 
 ### 训练
 
-![image-20220519151657583](C:\Users\HP\AppData\Roaming\Typora\typora-user-images\image-20220519151657583.png)
+[pytorchGUI/4.png at main · biganabc/pytorchGUI (github.com)](https://github.com/biganabc/pytorchGUI/blob/main/pictures/4.png)
 
 ### 查看模型结构
 
-![image-20220519151748910](C:\Users\HP\AppData\Roaming\Typora\typora-user-images\image-20220519151748910.png)
+[pytorchGUI/5.png at main · biganabc/pytorchGUI (github.com)](https://github.com/biganabc/pytorchGUI/blob/main/pictures/5.png)
 
 ### 调用模型
 
-![image-20220519152034214](C:\Users\HP\AppData\Roaming\Typora\typora-user-images\image-20220519152034214.png)
+[pytorchGUI/6.png at main · biganabc/pytorchGUI (github.com)](https://github.com/biganabc/pytorchGUI/blob/main/pictures/6.png)
 
 ## 环境（需要的Python库）
 
