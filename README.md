@@ -1,3 +1,3 @@
 # pytorchGUI
 
-![1](.\pictures\1.png)
+![UUU](https://github.com/biganabc/pytorchGUI/blob/main/pictures/1.png)
